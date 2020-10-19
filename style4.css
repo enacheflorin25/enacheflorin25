@@ -1,0 +1,43 @@
+#content4{
+    padding: 10px 10px 10px  10px;
+    margin: auto;
+    width: 755px;
+    font-size: 30px; 
+    
+}
+
+body{
+    background-color; 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+#main4{
+    widows: 10px;
+    float: right;
+    padding: 10px;
+    font-size: 30px;
+}
+
+#container4{
+    
+    
+    width: 755px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+    font-size:30;
+    text-align: center;
+}
+#footer4{
+    clear: both;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: medium;}
+.hi{
+    color: royalblue;
+}
+
